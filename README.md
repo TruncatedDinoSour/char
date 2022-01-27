@@ -2,6 +2,10 @@
 
 > Manage, make and use char-sets
 
+# Requirements
+
+- Python 3.8 or higher
+
 # Installation
 
 ## Manual
@@ -20,4 +24,3 @@ sudo install -Dm755 char /usr/local/bin
 Just add a file in `~/.config/charsets` with any name and add all characters you want in your char-set
 then just call `char <the file name>` to print the char-set out, do `char ls` to
 list all char-sets
-
