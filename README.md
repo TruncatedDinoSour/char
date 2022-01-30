@@ -14,7 +14,7 @@
 sudo install -Dm755 char /usr/local/bin
 ```
 
-# Packages
+## Packages
 
 - Linux
   - Gentoo linux: [app-misc/char::dinolay](https://ari-web.xyz/gentooatom/app-misc/char)
